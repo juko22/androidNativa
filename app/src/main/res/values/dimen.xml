@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_normal">4dp</dimen>
+    <dimen name="margin_large">8dp</dimen>
+    <dimen name="corner_radius_normal">4dp</dimen>
+    <dimen name="button_height_normal">48dp</dimen>
+</resources>

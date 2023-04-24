@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">nativeApplication</string>
+    <string name="delete">Delete</string>
+    <string name="add_button">Add button</string>
+    <string name="title">Title</string>
+    <string name="enter_note_title">Enter note title</string>
+    <string name="type_something_here">Type something here</string>
+    <string name="text">Text</string>
+    <string name="create_note">Create note</string>
+    <string name="no_notes_to_show">No notes to show</string>
+</resources>
